@@ -1,0 +1,10 @@
+name: Man10JobMatching
+version: ${project.version}
+main: red.man10.man10jobmatching.Man10JobMatching
+authors: [Mr_IK]
+description: Man10 Job Matching
+commands:
+  mdeed:
+    description: Man10JobsearchPlugin_maincommand
+    usage: /<command>
+    default: op
